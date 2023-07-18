@@ -52,3 +52,5 @@ barryengler@gmail.com <br>
 
 REPO Screenshot
 ![Repo Screenshot](https://github.com/Barry25000/PWA_Text_Editor/blob/main/images/REPO_Screenshot.png)
+
+![App Launch](https://github.com/Barry25000/PWA_Text_Editor/blob/main/images/Launch_Screenshot.png)
