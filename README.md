@@ -54,3 +54,5 @@ REPO Screenshot
 ![Repo Screenshot](https://github.com/Barry25000/PWA_Text_Editor/blob/main/images/REPO_Screenshot.png)
 
 ![App Launch](https://github.com/Barry25000/PWA_Text_Editor/blob/main/images/Launch_Screenshot.png)
+
+![App Launch with Info](https://github.com/Barry25000/PWA_Text_Editor/blob/main/images/Info_Screenshot.png)
