@@ -49,3 +49,6 @@ None at this time
 Please direct any questions to.<br>
 barryengler@gmail.com <br>
 [GitHub](https://github.com/Barry25000)
+
+REPO Screenshot
+![Repo Screenshot](https://github.com/Barry25000/PWA_Text_Editor/blob/main/images/REPO_Screenshot.png)
