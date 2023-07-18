@@ -56,3 +56,5 @@ REPO Screenshot
 ![App Launch](https://github.com/Barry25000/PWA_Text_Editor/blob/main/images/Launch_Screenshot.png)
 
 ![App Launch with Info](https://github.com/Barry25000/PWA_Text_Editor/blob/main/images/Info_Screenshot.png)
+
+![App Launch with Servisworkers](https://github.com/Barry25000/PWA_Text_Editor/blob/main/images/Serviceworkers_Screenshot.png)
