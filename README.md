@@ -4,7 +4,7 @@
 
 ## Description
 
-text editor that runs in the browser.
+Text editor that runs in the browser.
 
 ## Table of Contents
 
