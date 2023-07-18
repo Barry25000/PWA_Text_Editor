@@ -50,6 +50,9 @@ Please direct any questions to.<br>
 barryengler@gmail.com <br>
 [GitHub](https://github.com/Barry25000)
 
+Live Link From Heroku <br>
+https://aqueous-springs-12812-8a31869df66d.herokuapp.com/
+
 REPO Screenshot<br>
 ![Repo Screenshot](https://github.com/Barry25000/PWA_Text_Editor/blob/main/images/REPO_Screenshot.png)<br>
 
