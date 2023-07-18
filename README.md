@@ -1,4 +1,4 @@
-# Title of Project (PWA): Text Editor
+# (PWA): Text Editor
 
 ![MIT](https://img.shields.io/badge/license-MIT-green)
 
@@ -23,7 +23,7 @@ text editor that runs in the browser.
 ## Installation
 
 To install necessary dependencies, run the following command: <br>
-npm i, npm run build, npm run start:dev if ran locally
+npm i<br> npm run build<br> npm run start:dev, if ran locally
 
 ## Usage
 
@@ -47,5 +47,5 @@ None at this time
 ## Questions
 
 Please direct any questions to.<br>
-Barry engler and my tutor Nathan Engler, help from my TA's. at barryengler@gmail.com <br>
+barryengler@gmail.com <br>
 [GitHub](https://github.com/Barry25000)
